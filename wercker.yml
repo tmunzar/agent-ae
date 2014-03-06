@@ -18,7 +18,4 @@ build:
         code: phpunit --configuration phpunit.xml
 deploy:
   steps:
-    - duleorlovic/ftp-deploy@0.0.35:
-        destination: ftp://www.jellyfish.com.pk/public_html/agent-ae
-        username: jellyfis
-        password: $FTP_PASSWORD
+    - heroku-deploy
