@@ -1825,12 +1825,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/JeffreyWay/Laravel-4-Generators.git",
-                "reference": "b1e4bd0bdec7524635c45a7d6e37254102233ef5"
+                "reference": "f0149677968893333b416afa48b6d5f804a7bc35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JeffreyWay/Laravel-4-Generators/zipball/b1e4bd0bdec7524635c45a7d6e37254102233ef5",
-                "reference": "b1e4bd0bdec7524635c45a7d6e37254102233ef5",
+                "url": "https://api.github.com/repos/JeffreyWay/Laravel-4-Generators/zipball/f0149677968893333b416afa48b6d5f804a7bc35",
+                "reference": "f0149677968893333b416afa48b6d5f804a7bc35",
                 "shasum": ""
             },
             "require": {
@@ -1853,6 +1853,9 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
             "authors": [
                 {
                     "name": "Jeffrey Way",
@@ -1861,7 +1864,7 @@
                     "role": "Developer"
                 }
             ],
-            "time": "2014-03-05 16:03:35"
+            "time": "2014-03-06 14:37:24"
         }
     ],
     "packages-dev": [

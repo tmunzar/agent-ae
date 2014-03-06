@@ -1764,52 +1764,6 @@
         ]
     },
     {
-        "name": "way/generators",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/JeffreyWay/Laravel-4-Generators.git",
-            "reference": "b1e4bd0bdec7524635c45a7d6e37254102233ef5"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/JeffreyWay/Laravel-4-Generators/zipball/b1e4bd0bdec7524635c45a7d6e37254102233ef5",
-            "reference": "b1e4bd0bdec7524635c45a7d6e37254102233ef5",
-            "shasum": ""
-        },
-        "require": {
-            "illuminate/support": "4.1.*",
-            "php": ">=5.4.0"
-        },
-        "require-dev": {
-            "behat/behat": "v2.5.1",
-            "behat/mink": "v1.5.0",
-            "behat/mink-extension": "*",
-            "behat/mink-goutte-driver": "*",
-            "behat/mink-selenium2-driver": "*",
-            "phpspec/phpspec": "2.0.*@dev",
-            "phpunit/phpunit": "3.*"
-        },
-        "time": "2014-03-05 16:03:35",
-        "type": "library",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-0": {
-                "Way\\Generators": "src/"
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "authors": [
-            {
-                "name": "Jeffrey Way",
-                "email": "jeffrey@jeffrey-way.com",
-                "homepage": "http://jeffrye-way.com",
-                "role": "Developer"
-            }
-        ]
-    },
-    {
         "name": "imagine/imagine",
         "version": "v0.5.0",
         "version_normalized": "0.5.0.0",
@@ -1921,6 +1875,55 @@
             "paperclip",
             "s3",
             "upload"
+        ]
+    },
+    {
+        "name": "way/generators",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/JeffreyWay/Laravel-4-Generators.git",
+            "reference": "f0149677968893333b416afa48b6d5f804a7bc35"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/JeffreyWay/Laravel-4-Generators/zipball/f0149677968893333b416afa48b6d5f804a7bc35",
+            "reference": "f0149677968893333b416afa48b6d5f804a7bc35",
+            "shasum": ""
+        },
+        "require": {
+            "illuminate/support": "4.1.*",
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "behat/behat": "v2.5.1",
+            "behat/mink": "v1.5.0",
+            "behat/mink-extension": "*",
+            "behat/mink-goutte-driver": "*",
+            "behat/mink-selenium2-driver": "*",
+            "phpspec/phpspec": "2.0.*@dev",
+            "phpunit/phpunit": "3.*"
+        },
+        "time": "2014-03-06 14:37:24",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Way\\Generators": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jeffrey Way",
+                "email": "jeffrey@jeffrey-way.com",
+                "homepage": "http://jeffrye-way.com",
+                "role": "Developer"
+            }
         ]
     }
 ]
