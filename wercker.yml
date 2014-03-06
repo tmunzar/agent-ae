@@ -8,6 +8,9 @@ build:
         code: |-
             composer install --no-interaction
     - script:
+        name: run migrations
+        code: php artisan migrate
+    - script:
         name: Serve application
         code: php -S localhost:8000 >> /dev/null &
     - script:
