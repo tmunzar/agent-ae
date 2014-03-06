@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'agent_be',
-			'username'  => 'root',
-			'password'  => 'kalabagh',
+			'host'      => WERCKER_MYSQL_HOST,
+			'database'  => WERCKER_MYSQL_DATABASE,
+			'username'  => WERCKER_MYSQL_USERNAME,
+			'password'  => WERCKER_MYSQL_PASSWORD,
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
