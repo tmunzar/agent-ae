@@ -110,6 +110,7 @@ return array(
 		'Cartalyst\Sentry\SentryServiceProvider',
 		'Way\Generators\GeneratorsServiceProvider',
 		'Codesleeve\Stapler\StaplerServiceProvider'
+		
 	),
 
 	/*
