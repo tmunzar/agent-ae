@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2013 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="search" unicode="&#xe804;" d="m643 386q0 103-74 176t-176 74t-177-74t-73-176t73-177t177-73t176 73t74 177z m286-465q0-29-22-50t-50-21q-30 0-50 21l-191 191q-100-69-223-69q-80 0-153 31t-125 84t-84 125t-31 153t31 152t84 126t125 84t153 31t152-31t126-84t84-126t31-152q0-123-69-223l191-191q21-21 21-51z" horiz-adv-x="928.6" />
+<glyph glyph-name="user" unicode="&#xe803;" d="m786 66q0-67-41-106t-108-39h-488q-67 0-108 39t-41 106q0 30 2 58t8 61t15 60t24 55t34 45t48 30t62 11q5 0 24-12t41-27t60-27t75-12t74 12t61 27t41 27t24 12q34 0 62-11t48-30t34-45t24-55t15-60t8-61t2-58z m-179 498q0-88-63-151t-151-63t-152 63t-62 151t62 152t152 63t151-63t63-152z" horiz-adv-x="785.7" />
+<glyph glyph-name="location" unicode="&#xe800;" d="m250 750q104 0 177-73t73-177q0-106-62-243t-126-223l-62-84q-10 12-27 35t-60 89t-76 130t-60 147t-27 149q0 104 73 177t177 73z m0-388q56 0 96 40t40 96t-40 95t-96 39t-95-39t-39-95t39-96t95-40z" horiz-adv-x="500" />
+<glyph glyph-name="commerical-building" unicode="&#xe806;" d="m50 800c-28 0-50-22-50-50c0 0 0-533 0-800c0-25 25-50 50-50c83 0 250 0 250 0l0 150c0 28 26 50 50 50l50 0c24 0 50-22 50-50c0-50 0-100 0-150c0 0 167 0 250 0c25 0 50 25 50 50c0 267 0 800 0 800c0 28-22 50-50 50z m100-150l150 0l0-100l-150 0z m300 0l150 0l0-100l-150 0z m-300-300l150 0l0-100l-150 0z m300 0l150 0l0-100l-150 0z" horiz-adv-x="750" />
+<glyph glyph-name="home" unicode="&#xe805;" d="m0-150l0 649l453 351l453-351l0-649l-312 0l0 391l-281 0l0-391l-313 0z" horiz-adv-x="906" />
+<glyph glyph-name="key" unicode="&#xe802;" d="m0 350q0 113 80 193t193 81q96 0 169-58t97-148l461 0l0-117l-64 0l0-218l-116 0l0 218l-54 0l0-150l-118 0l0 150l-105 0q-18-95-94-160t-176-64q-113 0-193 80t-80 193z m127 0q0-60 43-103t103-43t104 43t43 103t-43 104t-104 43t-103-43t-43-104z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
