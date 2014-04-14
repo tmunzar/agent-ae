@@ -26,7 +26,8 @@ $app = new Illuminate\Foundation\Application;
 
 $env = $app->detectEnvironment(array(
 
-	'local' => array('your-machine-name'),
+	'local' => array('tmunzar-HP-ProBook-4530s'),
+	'dev' => array('blah'),
 
 ));
 

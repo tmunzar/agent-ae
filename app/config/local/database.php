@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'agent-be',
+			'database'  => 'agent_be',
 			'username'  => 'root',
 			'password'  => 'kalabagh',
 			'charset'   => 'utf8',
